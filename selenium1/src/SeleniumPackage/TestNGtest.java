@@ -21,8 +21,8 @@ public class TestNGtest {
 	WebDriver driver;
 	String s1= "http://localhost:5566/wd/hub";
 	
-	@BeforeTest
-	public void loin() throws MalformedURLException
+	///@BeforeTest
+	//////public void loin() throws MalformedURLException
 	{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\training\\Desktop\\sele\\chromedriver.exe");
 		

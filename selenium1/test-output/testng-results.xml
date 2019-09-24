@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8493" started-at="2019-09-18T08:33:48Z" finished-at="2019-09-18T08:33:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8493" started-at="2019-09-18T08:33:48Z" finished-at="2019-09-18T08:33:57Z">
+      <class name="SeleniumPackage.TestNGtest">
+        <test-method status="PASS" signature="loin()[pri:0, instance:SeleniumPackage.TestNGtest@d2cc05a]" name="loin" is-config="true" duration-ms="3138" started-at="2019-09-18T14:03:48Z" finished-at="2019-09-18T14:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loin -->
+        <test-method status="PASS" signature="loin()[pri:0, instance:SeleniumPackage.test@4f933fd1]" name="loin" is-config="true" duration-ms="2393" started-at="2019-09-18T14:03:51Z" finished-at="2019-09-18T14:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loin -->
+        <test-method status="PASS" signature="connect()[pri:0, instance:SeleniumPackage.TestNGtest@d2cc05a]" name="connect" duration-ms="2235" started-at="2019-09-18T14:03:54Z" finished-at="2019-09-18T14:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect -->
+        <test-method status="PASS" signature="entering()[pri:0, instance:SeleniumPackage.TestNGtest@d2cc05a]" name="entering" is-config="true" duration-ms="220" started-at="2019-09-18T14:03:56Z" finished-at="2019-09-18T14:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entering -->
+        <test-method status="PASS" signature="entering()[pri:0, instance:SeleniumPackage.test@4f933fd1]" name="entering" is-config="true" duration-ms="176" started-at="2019-09-18T14:03:56Z" finished-at="2019-09-18T14:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entering -->
+      </class> <!-- SeleniumPackage.TestNGtest -->
+      <class name="SeleniumPackage.test">
+        <test-method status="PASS" signature="connect()[pri:0, instance:SeleniumPackage.test@4f933fd1]" name="connect" duration-ms="2544" started-at="2019-09-18T14:03:54Z" finished-at="2019-09-18T14:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect -->
+      </class> <!-- SeleniumPackage.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
